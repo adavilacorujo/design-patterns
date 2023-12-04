@@ -10,3 +10,5 @@ The application mimics fetching events from email service providers, ie Gmail, Y
 
 Everything related to fetching the data from the providers is under _events_.
 Everything related to mimicing a server is under _server_.
+
+![alt text](./images/factory.jpg)
